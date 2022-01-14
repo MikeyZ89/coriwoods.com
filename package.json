@@ -1,0 +1,24 @@
+{
+  "name": "coriwoods.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyz89/coriwoods.com.git"
+  },
+  "keywords": [],
+  "homepage":"https://mikeyz89.github.io/coriwoods.com",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeyZ89/coriwoods.com/issues"
+  },
+  "homepage": "https://github.com/MikeyZ89/coriwoods.com#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
